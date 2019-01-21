@@ -9,5 +9,8 @@
             "email": "khaksar445@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {"FileUpload\\": "lib/"}
+    },
     "require": {}
 }
