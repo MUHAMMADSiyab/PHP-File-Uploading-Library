@@ -3,6 +3,7 @@
     "description": "A PHP library for uploading files",
     "type": "library",
     "license": "MIT",
+    "version": "1.0",
     "authors": [
         {
             "name": "MUHAMMAD Siyab",
