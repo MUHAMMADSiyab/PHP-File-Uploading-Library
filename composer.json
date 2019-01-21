@@ -1,0 +1,13 @@
+{
+    "name": "muhammadsiyab/file_upload",
+    "description": "A PHP library for uploading files",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MUHAMMAD Siyab",
+            "email": "khaksar445@gmail.com"
+        }
+    ],
+    "require": {}
+}
