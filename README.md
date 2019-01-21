@@ -27,7 +27,7 @@ $custom_messages = [
 if ( isset($_POST['submit']) ) {
     
     // Instantiate `Upload` Class
-    $upload = new Upload('field_name', [
+    $upload = new FileUpload\Upload('field_name', [
         'upload_dir' =>   'uploads/',
         'max_size'   =>   100,
         'types'      =>   'png|jpg|jpeg',
